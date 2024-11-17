@@ -20,6 +20,8 @@ This chatbot leverages the RAG framework to enhance information retrieval from d
 
 The user-friendly Streamlit interface simplifies interaction, ensuring accessibility for users across various domains.
 
+https://github.com/user-attachments/assets/6f549fe3-5594-4cb2-9e90-d51720fcffbc
+
 ---
 
 ## 🗂️ File Structure
